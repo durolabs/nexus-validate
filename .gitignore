@@ -1,0 +1,13 @@
+.DS_Store
+dist
+logs
+*.log
+npm-debug.log*
+package-lock.json
+yarn.lock
+yarn-debug.log*
+yarn-error.log*
+node_modules/
+.yarn-integrity
+.vscode-test
+coverage
