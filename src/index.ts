@@ -5,7 +5,7 @@ import { ValidatePluginErrorConfig, ValidationError } from './error';
 import { resolver } from './resolver';
 
 const ValidateResolverImport = printedGenTypingImport({
-  module: 'nexus-validate',
+  module: '@peacechen/nexus-validate',
   bindings: ['ValidateResolver'],
 });
 
