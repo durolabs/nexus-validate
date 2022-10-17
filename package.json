@@ -1,6 +1,6 @@
 {
   "name": "@peacechen/nexus-validate",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "Validation plugin for Nexus JS.",
   "repository": "https://github.com/peacechen/nexus-validate",
   "license": "MIT",
