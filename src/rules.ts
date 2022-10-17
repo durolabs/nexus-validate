@@ -1,13 +1,14 @@
-import { string, number, boolean, date, object, array } from 'yup';
+import { array, boolean, date, mixed, number, object, string } from 'yup';
 import { ObjectShape } from 'yup/lib/object';
 
 export const rules = {
-  string,
-  number,
+  array,
   boolean,
   date,
+  mixed,
+  number,
   object,
-  array,
+  string,
 };
 
 export type ValidationRules = typeof rules;
